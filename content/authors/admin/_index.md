@@ -14,7 +14,7 @@ role: Associate Professor of Instructional Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Georgia Southern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
